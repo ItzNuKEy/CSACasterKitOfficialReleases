@@ -7,7 +7,7 @@ By installing, copying, or using this software, you agree to the terms below.
 
 1. Ownership
 
-All rights, title, and interest in CSA Overlay V2—including its source code, compiled code, design, UI, graphics, assets, documentation, and all related materials—are owned exclusively by NuKEy Development.
+All rights, title, and interest in CSA Overlay V2—including its source code, compiled code, design, UI, graphics, assets, documentation, and all related materials—are owned exclusively by NuKEy Development & Car Soccer Association.
 
 Nothing in this agreement transfers any ownership or rights to you.
 
@@ -70,5 +70,6 @@ Upon termination, you must immediately cease using the software and delete all c
 8. Governing Law
 
 This agreement is governed by the laws of the United States and the State of Missouri, without regard to conflict-of-law rules.
+
 
 END OF LICENSE
