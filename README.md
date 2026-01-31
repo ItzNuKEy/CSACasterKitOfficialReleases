@@ -1,7 +1,8 @@
 CSA Caster App
 
 Official release repo for the CSA Caster App.
-Download the latest version from the Releases tab.
+Download the latest version from the **[Releases]([https://example.com](https://github.com/ItzNuKEy/CSACasterKitOfficialReleases/releases))**
+ tab.
 
 This app provides CSA casters with live match info, team data, and production-synced updates.
 Source code is private.
