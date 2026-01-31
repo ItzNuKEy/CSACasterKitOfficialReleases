@@ -8,4 +8,4 @@ Source code is private.
 
 See LICENSE.md for usage terms.
 
-For support, contact CSA staff or open an Ticket or DM @NuKEy on Disord.
+For support, contact CSA staff or open an Ticket or DM @NuKEy on Discord.
